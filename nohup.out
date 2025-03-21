@@ -1,0 +1,351 @@
+[I 2025-02-26 11:11:22.029 ServerApp] Extension package jupyter_lsp took 0.1056s to import
+[I 2025-02-26 11:11:22.220 ServerApp] Extension package jupyter_server_terminals took 0.1903s to import
+[I 2025-02-26 11:11:22.559 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-02-26 11:11:22.562 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-02-26 11:11:22.565 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-02-26 11:11:22.568 ServerApp] notebook | extension was successfully linked.
+[I 2025-02-26 11:11:22.921 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-02-26 11:11:22.975 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-02-26 11:11:22.976 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-02-26 11:11:22.977 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-02-26 11:11:22.980 LabApp] JupyterLab extension loaded from C:\Users\rimbr\AppData\Local\Programs\Python\Python313\Lib\site-packages\jupyterlab
+[I 2025-02-26 11:11:22.980 LabApp] JupyterLab application directory is C:\Users\rimbr\AppData\Local\Programs\Python\Python313\share\jupyter\lab
+[I 2025-02-26 11:11:22.981 LabApp] Extension Manager is 'pypi'.
+[I 2025-02-26 11:11:23.202 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-02-26 11:11:23.205 ServerApp] notebook | extension was successfully loaded.
+[I 2025-02-26 11:11:23.206 ServerApp] The port 8888 is already in use, trying another port.
+[I 2025-02-26 11:11:23.206 ServerApp] The port 8889 is already in use, trying another port.
+[I 2025-02-26 11:11:23.206 ServerApp] Serving notebooks from local directory: C:\Users\rimbr\Desktop\Git Projekte\Pricing
+[I 2025-02-26 11:11:23.207 ServerApp] Jupyter Server 2.15.0 is running at:
+[I 2025-02-26 11:11:23.207 ServerApp] http://localhost:8890/tree?token=f32c9bfe4ce6c55a24fb6a782bc79c4dfa3ca82c2b6f5e40
+[I 2025-02-26 11:11:23.207 ServerApp]     http://127.0.0.1:8890/tree?token=f32c9bfe4ce6c55a24fb6a782bc79c4dfa3ca82c2b6f5e40
+[I 2025-02-26 11:11:23.207 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2025-02-26 11:11:23.265 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///C:/Users/rimbr/AppData/Roaming/jupyter/runtime/jpserver-5720-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/tree?token=f32c9bfe4ce6c55a24fb6a782bc79c4dfa3ca82c2b6f5e40
+        http://127.0.0.1:8890/tree?token=f32c9bfe4ce6c55a24fb6a782bc79c4dfa3ca82c2b6f5e40
+[I 2025-02-26 11:11:23.318 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-02-26 11:11:36.895 ServerApp] Kernel started: 6fc04730-801b-42a1-b0a3-081566a7dba3
+[I 2025-02-26 11:11:38.011 ServerApp] Connecting to kernel 6fc04730-801b-42a1-b0a3-081566a7dba3.
+[I 2025-02-26 11:11:38.031 ServerApp] Connecting to kernel 6fc04730-801b-42a1-b0a3-081566a7dba3.
+[I 2025-02-26 11:11:38.053 ServerApp] Connecting to kernel 6fc04730-801b-42a1-b0a3-081566a7dba3.
+[W 2025-02-26 11:11:38.137 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x00000217E0E28910>
+[I 2025-02-26 11:11:39.497 ServerApp] Connecting to kernel 6fc04730-801b-42a1-b0a3-081566a7dba3.
+[I 2025-02-26 12:18:23.197 ServerApp] Starting buffering for 6fc04730-801b-42a1-b0a3-081566a7dba3:94b5a5bb-754e-4cc1-944a-60fa30e81c14
+[I 2025-02-26 12:39:59.040 ServerApp] Connecting to kernel 6fc04730-801b-42a1-b0a3-081566a7dba3.
+[I 2025-02-26 12:39:59.040 ServerApp] Restoring connection for 6fc04730-801b-42a1-b0a3-081566a7dba3:94b5a5bb-754e-4cc1-944a-60fa30e81c14
+[I 2025-02-26 13:23:23.989 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 13:25:24.062 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 13:26:09.073 ServerApp] Starting buffering for 6fc04730-801b-42a1-b0a3-081566a7dba3:94b5a5bb-754e-4cc1-944a-60fa30e81c14
+[I 2025-02-26 13:26:10.220 ServerApp] Connecting to kernel 6fc04730-801b-42a1-b0a3-081566a7dba3.
+[I 2025-02-26 13:26:10.474 ServerApp] Starting buffering for 6fc04730-801b-42a1-b0a3-081566a7dba3:8d75a874-dce6-4b3f-a43b-7ead0d552346
+[I 2025-02-26 13:26:10.590 ServerApp] Connecting to kernel 6fc04730-801b-42a1-b0a3-081566a7dba3.
+[I 2025-02-26 13:27:04.688 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 16:06:11.535 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 16:08:11.648 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 16:09:28.664 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 16:10:46.375 ServerApp] Starting buffering for 6fc04730-801b-42a1-b0a3-081566a7dba3:8e01b947-9993-4fee-9f07-d22476579bb7
+[I 2025-02-26 16:18:38.303 ServerApp] Extension package jupyter_lsp took 0.2194s to import
+[I 2025-02-26 16:18:38.641 ServerApp] Extension package jupyter_server_terminals took 0.3374s to import
+[I 2025-02-26 16:18:38.726 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-02-26 16:18:38.730 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-02-26 16:18:38.733 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-02-26 16:18:38.736 ServerApp] notebook | extension was successfully linked.
+[I 2025-02-26 16:18:39.015 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-02-26 16:18:39.066 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-02-26 16:18:39.067 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-02-26 16:18:39.068 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-02-26 16:18:39.069 LabApp] JupyterLab extension loaded from C:\Users\rimbr\AppData\Local\Programs\Python\Python313\Lib\site-packages\jupyterlab
+[I 2025-02-26 16:18:39.070 LabApp] JupyterLab application directory is C:\Users\rimbr\AppData\Local\Programs\Python\Python313\share\jupyter\lab
+[I 2025-02-26 16:18:39.070 LabApp] Extension Manager is 'pypi'.
+[I 2025-02-26 16:18:39.278 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-02-26 16:18:39.281 ServerApp] notebook | extension was successfully loaded.
+[I 2025-02-26 16:18:39.282 ServerApp] Serving notebooks from local directory: C:\Users\rimbr\Desktop\Git Projekte\Pricing
+[I 2025-02-26 16:18:39.282 ServerApp] Jupyter Server 2.15.0 is running at:
+[I 2025-02-26 16:18:39.282 ServerApp] http://localhost:8888/tree?token=de39f2198da3005f08401bd26f24761059b48cf4635ecb41
+[I 2025-02-26 16:18:39.282 ServerApp]     http://127.0.0.1:8888/tree?token=de39f2198da3005f08401bd26f24761059b48cf4635ecb41
+[I 2025-02-26 16:18:39.282 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2025-02-26 16:18:39.352 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///C:/Users/rimbr/AppData/Roaming/jupyter/runtime/jpserver-17804-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=de39f2198da3005f08401bd26f24761059b48cf4635ecb41
+        http://127.0.0.1:8888/tree?token=de39f2198da3005f08401bd26f24761059b48cf4635ecb41
+[I 2025-02-26 16:18:39.409 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-02-26 16:18:50.655 ServerApp] Kernel started: c9b4d659-e536-4061-870d-fe5873b01c65
+[I 2025-02-26 16:18:51.677 ServerApp] Connecting to kernel c9b4d659-e536-4061-870d-fe5873b01c65.
+[I 2025-02-26 16:18:51.684 ServerApp] Connecting to kernel c9b4d659-e536-4061-870d-fe5873b01c65.
+[I 2025-02-26 16:18:51.694 ServerApp] Connecting to kernel c9b4d659-e536-4061-870d-fe5873b01c65.
+[I 2025-02-26 16:18:51.708 ServerApp] Connecting to kernel c9b4d659-e536-4061-870d-fe5873b01c65.
+[I 2025-02-26 16:19:46.093 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 16:20:08.967 ServerApp] Shutting down on /api/shutdown request.
+[I 2025-02-26 16:20:08.974 ServerApp] Shutting down 5 extensions
+[I 2025-02-26 16:20:08.974 ServerApp] Shutting down 1 kernel
+[I 2025-02-26 16:20:08.974 ServerApp] Kernel shutdown: c9b4d659-e536-4061-870d-fe5873b01c65
+[I 2025-02-26 17:02:00.900 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-02-26 17:02:00.903 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-02-26 17:02:00.905 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-02-26 17:02:00.908 ServerApp] notebook | extension was successfully linked.
+[I 2025-02-26 17:02:01.141 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-02-26 17:02:01.185 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-02-26 17:02:01.187 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-02-26 17:02:01.187 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-02-26 17:02:01.189 LabApp] JupyterLab extension loaded from C:\Users\rimbr\AppData\Local\Programs\Python\Python313\Lib\site-packages\jupyterlab
+[I 2025-02-26 17:02:01.189 LabApp] JupyterLab application directory is C:\Users\rimbr\AppData\Local\Programs\Python\Python313\share\jupyter\lab
+[I 2025-02-26 17:02:01.190 LabApp] Extension Manager is 'pypi'.
+[I 2025-02-26 17:02:01.391 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-02-26 17:02:01.394 ServerApp] notebook | extension was successfully loaded.
+[I 2025-02-26 17:02:01.395 ServerApp] Serving notebooks from local directory: C:\Users\rimbr\Desktop\Git Projekte\Pricing
+[I 2025-02-26 17:02:01.395 ServerApp] Jupyter Server 2.15.0 is running at:
+[I 2025-02-26 17:02:01.395 ServerApp] http://localhost:8888/tree?token=1a3b8d0d174d1819af3bebff81299c920d55c9b2d94a9e63
+[I 2025-02-26 17:02:01.395 ServerApp]     http://127.0.0.1:8888/tree?token=1a3b8d0d174d1819af3bebff81299c920d55c9b2d94a9e63
+[I 2025-02-26 17:02:01.395 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2025-02-26 17:02:01.413 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///C:/Users/rimbr/AppData/Roaming/jupyter/runtime/jpserver-5952-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=1a3b8d0d174d1819af3bebff81299c920d55c9b2d94a9e63
+        http://127.0.0.1:8888/tree?token=1a3b8d0d174d1819af3bebff81299c920d55c9b2d94a9e63
+[I 2025-02-26 17:02:01.465 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-02-26 17:02:07.580 ServerApp] Kernel started: 97f8230c-f188-4dfd-a7be-e05ad9d5691b
+[I 2025-02-26 17:02:08.650 ServerApp] Connecting to kernel 97f8230c-f188-4dfd-a7be-e05ad9d5691b.
+[I 2025-02-26 17:02:08.657 ServerApp] Connecting to kernel 97f8230c-f188-4dfd-a7be-e05ad9d5691b.
+[I 2025-02-26 17:02:08.694 ServerApp] Connecting to kernel 97f8230c-f188-4dfd-a7be-e05ad9d5691b.
+[I 2025-02-26 17:02:13.504 ServerApp] Connecting to kernel 97f8230c-f188-4dfd-a7be-e05ad9d5691b.
+[I 2025-02-26 17:02:41.393 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:04:30.357 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:07:40.814 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:15:37.012 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:21:37.125 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:23:09.679 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:25:09.798 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:26:37.498 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:30:28.263 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:30:54.229 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:32:04.376 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:32:05.362 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:32:07.543 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:36:54.305 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:37:34.987 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:37:37.554 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:48:36.142 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 17:48:37.617 ServerApp] Saving file at /pricing.ipynb
+[I 2025-02-26 18:05:03.879 ServerApp] Creating new notebook in 
+[I 2025-02-26 18:05:03.992 ServerApp] Saving file at /Untitled.ipynb
+[I 2025-02-26 18:05:04.072 ServerApp] Kernel started: 91176e72-1fa9-4cd1-9835-86c16714e1d2
+[I 2025-02-26 18:05:04.954 ServerApp] Connecting to kernel 97f8230c-f188-4dfd-a7be-e05ad9d5691b.
+[I 2025-02-26 18:05:05.183 ServerApp] Connecting to kernel 91176e72-1fa9-4cd1-9835-86c16714e1d2.
+[I 2025-02-26 18:05:05.189 ServerApp] Connecting to kernel 91176e72-1fa9-4cd1-9835-86c16714e1d2.
+[I 2025-02-26 18:05:05.198 ServerApp] Connecting to kernel 91176e72-1fa9-4cd1-9835-86c16714e1d2.
+[W 2025-02-26 18:05:05.226 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x00000200C97ED350>
+[I 2025-02-26 18:05:08.458 ServerApp] Connecting to kernel 97f8230c-f188-4dfd-a7be-e05ad9d5691b.
+[I 2025-02-26 18:05:08.473 ServerApp] Connecting to kernel 91176e72-1fa9-4cd1-9835-86c16714e1d2.
+[I 2025-02-26 18:07:18.478 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:11:18.548 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:13:18.620 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:15:18.675 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:17:37.095 ServerApp] Kernel interrupted: 91176e72-1fa9-4cd1-9835-86c16714e1d2
+[I 2025-02-26 18:19:18.730 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:21:18.777 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:29:18.850 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:30:11.005 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:31:05.358 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:31:05.902 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:38:11.076 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:40:11.141 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:42:11.215 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:44:11.276 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:46:11.340 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:48:11.400 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:50:11.488 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:52:11.572 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:54:11.642 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:56:11.706 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 18:58:11.773 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 19:00:11.829 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 19:01:06.823 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 19:01:27.522 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-26 19:04:55.969 ServerApp] Starting buffering for 97f8230c-f188-4dfd-a7be-e05ad9d5691b:dd403bad-aac3-459e-851f-758bfaeaf179
+[I 2025-02-26 19:04:58.115 ServerApp] Starting buffering for 91176e72-1fa9-4cd1-9835-86c16714e1d2:4a0a8989-5341-4461-acfd-e921760f2371
+[I 2025-02-26 19:05:59.222 ServerApp] Shutting down on /api/shutdown request.
+[I 2025-02-26 19:05:59.227 ServerApp] Shutting down 5 extensions
+[I 2025-02-26 19:05:59.228 ServerApp] Shutting down 2 kernels
+[I 2025-02-26 19:05:59.228 ServerApp] Kernel shutdown: 97f8230c-f188-4dfd-a7be-e05ad9d5691b
+[I 2025-02-26 19:05:59.229 ServerApp] Kernel shutdown: 91176e72-1fa9-4cd1-9835-86c16714e1d2
+[I 2025-02-28 11:14:59.238 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-02-28 11:14:59.245 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-02-28 11:14:59.264 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-02-28 11:14:59.272 ServerApp] notebook | extension was successfully linked.
+[I 2025-02-28 11:15:00.014 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-02-28 11:15:00.094 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-02-28 11:15:00.096 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-02-28 11:15:00.097 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-02-28 11:15:00.101 LabApp] JupyterLab extension loaded from C:\Users\rimbr\AppData\Local\Programs\Python\Python313\Lib\site-packages\jupyterlab
+[I 2025-02-28 11:15:00.101 LabApp] JupyterLab application directory is C:\Users\rimbr\AppData\Local\Programs\Python\Python313\share\jupyter\lab
+[I 2025-02-28 11:15:00.102 LabApp] Extension Manager is 'pypi'.
+[I 2025-02-28 11:15:00.505 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-02-28 11:15:00.510 ServerApp] notebook | extension was successfully loaded.
+[I 2025-02-28 11:15:00.512 ServerApp] Serving notebooks from local directory: C:\Users\rimbr\Desktop\Git Projekte\Pricing
+[I 2025-02-28 11:15:00.512 ServerApp] Jupyter Server 2.15.0 is running at:
+[I 2025-02-28 11:15:00.512 ServerApp] http://localhost:8888/tree?token=a606178ebd2621ab1a5658faef4caac4901d1f776f3ed4be
+[I 2025-02-28 11:15:00.512 ServerApp]     http://127.0.0.1:8888/tree?token=a606178ebd2621ab1a5658faef4caac4901d1f776f3ed4be
+[I 2025-02-28 11:15:00.512 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2025-02-28 11:15:00.552 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///C:/Users/rimbr/AppData/Roaming/jupyter/runtime/jpserver-7080-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=a606178ebd2621ab1a5658faef4caac4901d1f776f3ed4be
+        http://127.0.0.1:8888/tree?token=a606178ebd2621ab1a5658faef4caac4901d1f776f3ed4be
+[I 2025-02-28 11:15:00.642 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-02-28 11:15:08.728 ServerApp] Kernel started: 46a32af8-034b-4f60-a1b1-feb571ec5c1c
+[I 2025-02-28 11:15:10.331 ServerApp] Connecting to kernel 46a32af8-034b-4f60-a1b1-feb571ec5c1c.
+[I 2025-02-28 11:15:10.357 ServerApp] Connecting to kernel 46a32af8-034b-4f60-a1b1-feb571ec5c1c.
+[I 2025-02-28 11:15:10.381 ServerApp] Connecting to kernel 46a32af8-034b-4f60-a1b1-feb571ec5c1c.
+[W 2025-02-28 11:15:10.484 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x000001C43E17FE50>
+[I 2025-02-28 11:15:13.200 ServerApp] Connecting to kernel 46a32af8-034b-4f60-a1b1-feb571ec5c1c.
+[I 2025-02-28 11:17:07.903 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:19:08.001 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:21:08.084 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:23:08.166 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:25:08.255 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:27:08.351 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:29:08.457 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:31:08.550 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:33:08.638 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:35:08.729 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:37:09.194 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:39:09.291 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:41:09.380 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:43:09.440 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:45:09.523 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:47:09.601 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:48:48.277 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:50:48.345 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:52:48.432 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:56:48.522 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 11:58:48.588 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:02:48.669 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:04:48.742 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:06:48.823 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:08:48.901 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:10:48.966 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:12:49.042 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:14:49.105 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:16:49.169 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:18:49.242 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:20:49.321 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:22:49.381 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:24:49.452 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:26:49.512 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:28:49.577 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:30:10.083 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:30:22.864 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:46:43.984 ServerApp] Creating new notebook in 
+[I 2025-02-28 12:46:44.091 ServerApp] Saving file at /Untitled.ipynb
+[I 2025-02-28 12:46:44.167 ServerApp] Kernel started: a6e8f091-494a-496f-b75c-8dc0e41c2d65
+[I 2025-02-28 12:46:45.177 ServerApp] Connecting to kernel 46a32af8-034b-4f60-a1b1-feb571ec5c1c.
+[I 2025-02-28 12:46:45.411 ServerApp] Connecting to kernel a6e8f091-494a-496f-b75c-8dc0e41c2d65.
+[I 2025-02-28 12:46:45.420 ServerApp] Connecting to kernel a6e8f091-494a-496f-b75c-8dc0e41c2d65.
+[I 2025-02-28 12:46:45.431 ServerApp] Connecting to kernel a6e8f091-494a-496f-b75c-8dc0e41c2d65.
+[W 2025-02-28 12:46:45.463 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x000001C43E235450>
+[I 2025-02-28 12:47:39.604 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 12:47:46.566 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 12:51:46.652 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 12:53:47.176 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 12:55:07.276 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 14:32:27.828 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 14:32:32.379 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 14:32:34.207 ServerApp] Starting buffering for 46a32af8-034b-4f60-a1b1-feb571ec5c1c:be524faf-c3b6-4285-8f70-f9fe98261079
+[I 2025-02-28 14:32:41.695 ServerApp] Starting buffering for a6e8f091-494a-496f-b75c-8dc0e41c2d65:9078ccee-7d5c-4d27-abad-0f2e97a26893
+[I 2025-02-28 14:32:57.712 ServerApp] Shutting down on /api/shutdown request.
+[I 2025-02-28 14:32:57.719 ServerApp] Shutting down 5 extensions
+[I 2025-02-28 14:32:57.719 ServerApp] Shutting down 2 kernels
+[I 2025-02-28 14:32:57.720 ServerApp] Kernel shutdown: a6e8f091-494a-496f-b75c-8dc0e41c2d65
+[I 2025-02-28 14:32:57.720 ServerApp] Kernel shutdown: 46a32af8-034b-4f60-a1b1-feb571ec5c1c
+[I 2025-02-28 14:59:55.445 ServerApp] Extension package jupyter_server_terminals took 0.1587s to import
+[I 2025-02-28 14:59:55.824 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-02-28 14:59:55.827 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-02-28 14:59:55.830 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-02-28 14:59:55.833 ServerApp] notebook | extension was successfully linked.
+[I 2025-02-28 14:59:56.239 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-02-28 14:59:56.289 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-02-28 14:59:56.290 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-02-28 14:59:56.291 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-02-28 14:59:56.294 LabApp] JupyterLab extension loaded from C:\Users\rimbr\AppData\Local\Programs\Python\Python313\Lib\site-packages\jupyterlab
+[I 2025-02-28 14:59:56.294 LabApp] JupyterLab application directory is C:\Users\rimbr\AppData\Local\Programs\Python\Python313\share\jupyter\lab
+[I 2025-02-28 14:59:56.295 LabApp] Extension Manager is 'pypi'.
+[I 2025-02-28 14:59:56.510 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-02-28 14:59:56.514 ServerApp] notebook | extension was successfully loaded.
+[I 2025-02-28 14:59:56.514 ServerApp] Serving notebooks from local directory: C:\Users\rimbr\Desktop\Git Projekte\Pricing
+[I 2025-02-28 14:59:56.515 ServerApp] Jupyter Server 2.15.0 is running at:
+[I 2025-02-28 14:59:56.515 ServerApp] http://localhost:8888/tree?token=95e6806a1000faa7446d0f1a0e6aeb5b2c3d2e81b561b89e
+[I 2025-02-28 14:59:56.515 ServerApp]     http://127.0.0.1:8888/tree?token=95e6806a1000faa7446d0f1a0e6aeb5b2c3d2e81b561b89e
+[I 2025-02-28 14:59:56.515 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2025-02-28 14:59:56.578 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///C:/Users/rimbr/AppData/Roaming/jupyter/runtime/jpserver-13132-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=95e6806a1000faa7446d0f1a0e6aeb5b2c3d2e81b561b89e
+        http://127.0.0.1:8888/tree?token=95e6806a1000faa7446d0f1a0e6aeb5b2c3d2e81b561b89e
+[I 2025-02-28 14:59:56.626 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-02-28 15:00:05.880 ServerApp] Kernel started: f39397f0-6560-4580-a6ca-bc0ea57fe6b3
+[I 2025-02-28 15:00:06.927 ServerApp] Connecting to kernel f39397f0-6560-4580-a6ca-bc0ea57fe6b3.
+[I 2025-02-28 15:00:06.934 ServerApp] Connecting to kernel f39397f0-6560-4580-a6ca-bc0ea57fe6b3.
+[I 2025-02-28 15:00:06.946 ServerApp] Connecting to kernel f39397f0-6560-4580-a6ca-bc0ea57fe6b3.
+[W 2025-02-28 15:00:06.985 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x0000022CF841CE10>
+[W 2025-02-28 15:00:06.988 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x0000022CF99D8250>
+[I 2025-02-28 15:00:08.842 ServerApp] Connecting to kernel f39397f0-6560-4580-a6ca-bc0ea57fe6b3.
+[I 2025-02-28 15:02:05.376 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 15:06:05.434 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 15:08:05.496 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 15:10:05.552 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 15:12:05.607 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 15:14:05.666 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 15:16:05.726 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 15:18:05.776 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 15:20:05.843 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 15:22:05.899 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 15:22:37.001 ServerApp] Connecting to kernel f39397f0-6560-4580-a6ca-bc0ea57fe6b3.
+[I 2025-02-28 15:22:37.764 ServerApp] Kernel started: 6a982002-d9d1-4a9c-8c10-2768e92a27a7
+[I 2025-02-28 15:22:39.289 ServerApp] Connecting to kernel 6a982002-d9d1-4a9c-8c10-2768e92a27a7.
+[I 2025-02-28 15:24:06.839 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 15:26:37.217 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 15:54:48.842 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 15:56:48.928 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 16:00:48.997 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 16:06:31.695 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 16:07:48.829 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 16:09:49.832 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 16:10:31.851 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 16:11:13.780 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 16:11:17.113 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 16:11:52.277 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 16:13:50.829 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 16:15:50.878 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 16:17:50.925 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 16:19:51.052 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 16:21:51.116 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 16:22:01.046 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 16:22:13.871 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 16:38:29.815 ServerApp] Starting buffering for f39397f0-6560-4580-a6ca-bc0ea57fe6b3:492a7b01-d379-4270-9517-3927d0248a56
+[I 2025-02-28 16:38:29.817 ServerApp] Starting buffering for 6a982002-d9d1-4a9c-8c10-2768e92a27a7:bece1826-93e3-48b8-b7a2-f2357bf837b7
+[I 2025-02-28 17:39:18.995 ServerApp] Connecting to kernel f39397f0-6560-4580-a6ca-bc0ea57fe6b3.
+[I 2025-02-28 17:39:18.995 ServerApp] Restoring connection for f39397f0-6560-4580-a6ca-bc0ea57fe6b3:492a7b01-d379-4270-9517-3927d0248a56
+[I 2025-02-28 17:39:19.015 ServerApp] Connecting to kernel 6a982002-d9d1-4a9c-8c10-2768e92a27a7.
+[I 2025-02-28 17:39:19.015 ServerApp] Restoring connection for 6a982002-d9d1-4a9c-8c10-2768e92a27a7:bece1826-93e3-48b8-b7a2-f2357bf837b7
+[I 2025-02-28 17:45:46.731 ServerApp] Saving file at /pricingmodel.ipynb
+[I 2025-02-28 17:45:50.823 ServerApp] Saving file at /pricingmodel_0.ipynb
+[I 2025-02-28 17:46:49.633 ServerApp] Starting buffering for 6a982002-d9d1-4a9c-8c10-2768e92a27a7:bece1826-93e3-48b8-b7a2-f2357bf837b7
+[I 2025-02-28 17:46:50.711 ServerApp] Starting buffering for f39397f0-6560-4580-a6ca-bc0ea57fe6b3:492a7b01-d379-4270-9517-3927d0248a56
+[I 2025-02-28 17:47:02.651 ServerApp] Shutting down on /api/shutdown request.
+[I 2025-02-28 17:47:02.657 ServerApp] Shutting down 5 extensions
+[I 2025-02-28 17:47:02.658 ServerApp] Shutting down 2 kernels
+[I 2025-02-28 17:47:02.658 ServerApp] Kernel shutdown: 6a982002-d9d1-4a9c-8c10-2768e92a27a7
+[I 2025-02-28 17:47:02.659 ServerApp] Kernel shutdown: f39397f0-6560-4580-a6ca-bc0ea57fe6b3

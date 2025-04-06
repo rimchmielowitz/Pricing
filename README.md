@@ -23,11 +23,11 @@ into one **profit-maximizing optimization model** for crowd-shipping platforms.
 
 ### 📌 Key Features
 
-| ✔ Feature | 💬 Description |
-|----------|----------------|
+| ✔ Feature | 💬 Description | 🛠 Customization |
+|----------|----------------|----------|
 | 🔗 Based on [this research paper](https://www.sciencedirect.com/science/article/pii/S1366554520308516) | The [original MILP model](https://www.github.com/rim-the-optimizer/Pricing/blob/main/pricingmodel_0.ipynb) was created for joint pricing and routing decisions |
-| 🧑‍💻 Fully implemented in Python | Adapted to work smoothly in Python using Gurobi | check the [adapted version](https://www.github.com/rim-the-optimizer/Pricing/blob/main/pricingmodel.ipynb) 
-| 📊 Highly configurable | Input data, cost structures, and constraints can be adjusted | see how the [data](https://github.com/rimchmielowitz/Pricing/blob/main/data_Berlin/TWD.csv) is structured
+| 🧑‍💻 Fully implemented in Python | Adapted to work smoothly in Python using Gurobi | check the [adapted version](https://www.github.com/rim-the-optimizer/Pricing/blob/main/pricingmodel.ipynb) |
+| 📊 Highly configurable | Input data, cost structures, and constraints can be adjusted | see how the [data](https://github.com/rimchmielowitz/Pricing/blob/main/data_Berlin/TWD.csv) is structured |
 | 🧪 Ready-to-run notebook | Works in [Google Colab](https://colab.research.google.com/github/rim-the-optimizer/Pricing/blob/main/pricing.ipynb) without local setup |
 | 🎯 Focus on profit maximization | Balancing driver payouts with competitive customer pricing |
 

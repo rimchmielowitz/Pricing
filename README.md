@@ -59,7 +59,7 @@ Here's what you'll see when you run the model:
 ![optimized_output on map](https://github.com/rimchmielowitz/Pricing/blob/main/Pics/optimized%204%20tasks%20on%20map.png)
 ![optimized_output in a Gantt chart](https://github.com/rimchmielowitz/Pricing/blob/main/Pics/optimized%204%20tasks%20chart.png)
 
-## 📈 Gurobi Optimization Log (Excerpt)
+#### 📈 Gurobi Optimization Log (Excerpt)
 
 | DMD (Number of Orders)| SPL (Available Drivers) | Total Number of Nodes | Driver Time Window (in min) | Model Runtime (in sec) | Margin in € |
 |----------|-----------|-----------|----------------|----------------|-----------------|

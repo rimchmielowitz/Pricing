@@ -103,7 +103,7 @@ Maximize the total platform profit:
 ### 🛠 Technologies Used
 
 - Python 🐍  
-- Gurobi Optimizer 🔧  
+- Gurobi Optimizer and Google OR Tools 🔧  
 - Jupyter Notebooks 📓  
 - Linear & Integer Optimization 📈  
 - Logistics & Pricing Algorithms 🚚  

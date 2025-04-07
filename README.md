@@ -67,7 +67,7 @@ Here's what you'll see when you run the model:
 | 4     | 2       | 12     |120            | 0,049999952           | 13.67            |
 | ...      | ...       | ...       | ...            | ...            | ...             |
 
-👉 Full solution available in [Sol_Pricing.xlsx](https://docs.google.com/spreadsheets/d/14zJeT16X_azrgEhrH9qb7Dzg3EVkxGhc/edit?usp=sharing&ouid=116106288793772745103&rtpof=true&sd=true)
+👉 Full solution available in [Sol_Pricing.xlsx - Google Sheet Preview](https://docs.google.com/spreadsheets/d/14zJeT16X_azrgEhrH9qb7Dzg3EVkxGhc/edit?usp=sharing&ouid=116106288793772745103&rtpof=true&sd=true)
 
 
 

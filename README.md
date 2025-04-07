@@ -4,6 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Gurobi](https://img.shields.io/badge/Gurobi-MILP-EA1C24?style=flat-square)](https://www.gurobi.com/)
+[![Google OR Tools](https://img.shields.io/badge/Google%20OR--Tools-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/optimization)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rim-the-optimizer/Pricing/blob/main/pricing.ipynb)
 
 ---

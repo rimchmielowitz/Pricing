@@ -91,11 +91,11 @@ Set customer prices dynamically — ensuring competitiveness and profitability w
 
 #### 🎯 Objective  
 Maximize the total platform profit:  
-\[
-\text{Profit} = \text{Customer Revenue} - \text{Driver Compensation} - \text{Operational Costs}
-\]
 
-> The result: a mathematically balanced system where every delivery is **profitable**, **efficient**, and **fair**.
+**Profit = Customer Revenue – Driver Compensation**
+
+
+➡️ The result: a mathematically balanced system where every delivery is **profitable**, **efficient**, and **fair**.
 
 ---
 

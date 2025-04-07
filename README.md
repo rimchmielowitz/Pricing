@@ -56,12 +56,20 @@ Curious to try it out? Open the full demo notebook in Google Colab and experimen
 Here's what you'll see when you run the model:
 
 #### ✔️ Optimized assignments & pricing
-![optimized_output](https://github.com/rim-the-optimizer/Pricing/assets/your-image-folder/output_table_example.png)
+![optimized_output on map](https://github.com/rimchmielowitz/Pricing/blob/main/Pics/optimized%204%20tasks%20on%20map.png)
+![optimized_output in a Gantt chart](https://github.com/rimchmielowitz/Pricing/blob/main/Pics/optimized%204%20tasks%20chart.png)
 
-#### 📈 Gurobi optimization log
-![gurobi_log](https://github.com/rim-the-optimizer/Pricing/assets/your-image-folder/gurobi_log.png)
+## 📈 Gurobi Optimization Log (Excerpt)
 
-> *(Make sure to replace the image URLs with the actual paths in your repo or a GitHub-hosted folder.)*
+| DMD (Number of Orders)| SPL (Available Drivers) | Total Number of Nodes | Driver Time Window (in min) | Model Runtime (in sec) | Margin in € |
+|----------|-----------|-----------|----------------|----------------|-----------------|
+| 2     | 3      | 10     | 120            | 0,012000084           | 7.88            |
+| 4     | 2       | 12     |120            | 0,049999952           | 13.67            |
+| ...      | ...       | ...       | ...            | ...            | ...             |
+
+👉 Full solution available in [Sol_Pricing.xlsx](https://github.com/rimchmielowitz/Pricing/blob/main/Sol_Pricing.xlsx)
+
+
 
 ---
 

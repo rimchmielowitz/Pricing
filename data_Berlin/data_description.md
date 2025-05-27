@@ -52,7 +52,5 @@ i,lat,long,l,Time a,Time b,s,nodetype,distance_lat_lat_long_long,m,n,R,Speed,Fah
 
 This simplified example shows one job and one driver. You can scale this structure to multiple drivers and multiple pickup-delivery pairs.
 
----
 
-Feel free to extend this document with additional examples or visualizations.
 

@@ -4,6 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Gurobi](https://img.shields.io/badge/Gurobi-MILP-EA1C24?style=flat-square)](https://www.gurobi.com/)
+[![Google OR Tools](https://img.shields.io/badge/Google%20OR--Tools-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/optimization)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rim-the-optimizer/Pricing/blob/main/pricing.ipynb)
 
 ---
@@ -56,12 +57,20 @@ Curious to try it out? Open the full demo notebook in Google Colab and experimen
 Here's what you'll see when you run the model:
 
 #### ✔️ Optimized assignments & pricing
-![optimized_output](https://github.com/rim-the-optimizer/Pricing/assets/your-image-folder/output_table_example.png)
+![optimized_output on map](https://github.com/rimchmielowitz/Pricing/blob/main/Pics/optimized%204%20tasks%20on%20map.png)
+![optimized_output in a Gantt chart](https://github.com/rimchmielowitz/Pricing/blob/main/Pics/optimized%204%20tasks%20chart.png)
 
-#### 📈 Gurobi optimization log
-![gurobi_log](https://github.com/rim-the-optimizer/Pricing/assets/your-image-folder/gurobi_log.png)
+#### 📈 Gurobi Optimization Log (Excerpt)
 
-> *(Make sure to replace the image URLs with the actual paths in your repo or a GitHub-hosted folder.)*
+| DMD (Number of Orders)| SPL (Available Drivers) | Total Number of Nodes | Driver Time Window (in min) | Model Runtime (in sec) | Margin in € |
+|----------|-----------|-----------|----------------|----------------|-----------------|
+| 2     | 3      | 10     | 120            | 0,012000084           | 7.88            |
+| 4     | 2       | 12     |120            | 0,049999952           | 13.67            |
+| ...      | ...       | ...       | ...            | ...            | ...             |
+
+👉 Full solution available in [Sol_Pricing.xlsx - Google Sheet Preview](https://docs.google.com/spreadsheets/d/14zJeT16X_azrgEhrH9qb7Dzg3EVkxGhc/edit?usp=sharing&ouid=116106288793772745103&rtpof=true&sd=true)
+
+
 
 ---
 
@@ -83,18 +92,18 @@ Set customer prices dynamically — ensuring competitiveness and profitability w
 
 #### 🎯 Objective  
 Maximize the total platform profit:  
-\[
-\text{Profit} = \text{Customer Revenue} - \text{Driver Compensation} - \text{Operational Costs}
-\]
 
-> The result: a mathematically balanced system where every delivery is **profitable**, **efficient**, and **fair**.
+**Profit = Customer Revenue – Driver Compensation**
+
+
+➡️ The result: a mathematically balanced system where every delivery is **profitable**, **efficient**, and **fair**.
 
 ---
 
 ### 🛠 Technologies Used
 
 - Python 🐍  
-- Gurobi Optimizer 🔧  
+- Gurobi Optimizer and Google OR Tools 🔧  
 - Jupyter Notebooks 📓  
 - Linear & Integer Optimization 📈  
 - Logistics & Pricing Algorithms 🚚  
